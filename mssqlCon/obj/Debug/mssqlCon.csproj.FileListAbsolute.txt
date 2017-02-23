@@ -1,0 +1,5 @@
+c:\users\burak\documents\visual studio 2015\Projects\mssqlCon\mssqlCon\bin\Debug\mssqlCon.dll
+c:\users\burak\documents\visual studio 2015\Projects\mssqlCon\mssqlCon\bin\Debug\mssqlCon.pdb
+c:\users\burak\documents\visual studio 2015\Projects\mssqlCon\mssqlCon\obj\Debug\mssqlCon.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2015\Projects\mssqlCon\mssqlCon\obj\Debug\mssqlCon.dll
+c:\users\burak\documents\visual studio 2015\Projects\mssqlCon\mssqlCon\obj\Debug\mssqlCon.pdb
