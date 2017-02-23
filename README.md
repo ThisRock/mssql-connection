@@ -1,7 +1,8 @@
 ﻿MSSQL Connection Library
+
 How can you use it?
 
-Actually that's so basic, and it's first post on GitHub.
+Actually that's so basic, and it's my first post on GitHub.
 Firstly, you must add DLL in your C# project then add "using mssqlCon;" 
 
 Library wanna two string variables from you. First one is connection string and the other one is SQL query string. 
